@@ -296,3 +296,26 @@ footer {
 .card.team .avatar-list {
     margin-bottom: 0rem;
 }
+
+.text-left {
+    padding-top: 40px;
+}
+
+.text-muted {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.borda {
+    border-top: 1px solid darkgrey;
+    padding-top: 20px;
+}
+
+.title-nav {
+    padding-top: 20px;
+    font-weight: 500;
+}
+
+.title {
+    display: inline-flex;
+}
